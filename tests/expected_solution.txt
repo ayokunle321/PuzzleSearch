@@ -1,0 +1,9 @@
+cluster;(0,2);5
+gravity;(3,2);3
+abolish;(0,9);8
+analyze;(7,9);2
+gambler;(8,8);6
+oversee;(6,0);4
+elastic;(7,0);7
+succeed;(9,3);1
+lantern;(6,1);4
